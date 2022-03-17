@@ -13,7 +13,6 @@ namespace CalculatorConsoleApp
             Console.Title = "Aplikasi Calculator";
 
             Console.WriteLine("Menu Kalkulator: ");
-
             Console.WriteLine("1. Penambahan");
             Console.WriteLine("2. Pengurangan");
             Console.WriteLine("3. Perkalian");
